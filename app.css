@@ -1,0 +1,10 @@
+/* img {
+    width: 100%;
+    height: 100px;
+} */
+
+#giphy-container {
+    justify-items: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
